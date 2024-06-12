@@ -1,4 +1,4 @@
 # Afame-technology-
-This is my first online internship project. on Afame Technologies,
-I have made a basic landing page for a online shopping website.
-Using HTML and CSS only.
+This is my first online internship project. on IT company "Afame Technologies",
+I made a basic landing page for a online shopping website. it is a online Gym store website to buy gym related products. 
+Made Using HTML and CSS only.
